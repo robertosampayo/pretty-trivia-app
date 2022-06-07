@@ -47,6 +47,7 @@ The solution was very simple I use React js with Nextjs for the client. I also u
 * Client
   * Reactjs 🐱‍👓
   * Nextjs 🐱‍🏍
+  * Context Api 🐱‍👤
   * Typescript 🛠 
   * Styled component 💅
 
