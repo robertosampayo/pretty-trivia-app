@@ -62,7 +62,7 @@ npm run test
 
 # Deploy 😎🚀
 
-You can see the app runing here: https://awesome-trivia-game.vercel.app/
+You can see the app runing here: [https://awesome-trivia-game.vercel.app/](https://pretty-trivia-app.vercel.app/)
 
 Thank you for having come this far!.
 Enjoy the app 😁.
