@@ -32,13 +32,36 @@ The challenge was to create a 10 question, true or false, trivia app with React 
 
 The application code will be reviewed and scored on these key areas with many subset areas for each:
 
-- Functionality
-- Code Format
-- Project Structure
-- Scalability
-- Maintainability
-- Use of industry best practices
+* Functionality
+* Code Format 
+* Project Structure
+* Scalability
+* Maintainability
+* Use of industry best practices
 
 API: https://opentdb.com/api.php?amount=10&difficulty=hard&type=boolean
 
 ## Solution
+The solution was very simple I use React js with Nextjs for the client. I also use styled component that way the app only render the styles that only need it. I consider use Typescript too for the entire app that way have better control with the dinamic typed that use javascript
+
+* Client
+  * Reactjs 🐱‍👓
+  * Nextjs 🐱‍🏍
+  * Typescript 🛠 
+  * Styled component 💅
+
+## For testing
+I use Jest with React Testing Library that goes really well with Nextjs, to run it just type: 
+
+```bash
+
+npm run test
+
+```
+
+# Deploy 😎🚀
+
+You can see the app runing here: https://awesome-trivia-game.vercel.app/
+
+Thank you for having come this far!.
+Enjoy the app 😁.
